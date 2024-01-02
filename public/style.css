@@ -1,0 +1,16 @@
+.response {
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 20px;
+    color: white !important;
+    position: relative;
+    z-index: 1;
+}
+
+.success {
+    background-color: rgb(4, 206, 75);
+}
+
+.error {
+    background-color: rgb(222, 2, 2);
+}
